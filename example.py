@@ -1,6 +1,6 @@
 from __future__ import print_function
 import time
-from dual_mc33926_rpi import motors, MAX_SPEED
+from dual_g2_hpmd_rpi import motors, MAX_SPEED
 
 # Set up sequences of motor speeds.
 test_forward_speeds = list(range(0, MAX_SPEED, 1)) + \
