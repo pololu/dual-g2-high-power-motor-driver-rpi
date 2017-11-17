@@ -2,7 +2,6 @@
 
 Version: 1.0.0<br>
 Release Date: 2017-11-16<br>
-[![Build Status](https://travis-ci.org/pololu/dual-g2-high-power-motor-driver-rpi.svg?branch=master)](https://travis-ci.org/pololu/dual-g2-high-power-motor-driver-rpi)<br>
 [www.pololu.com](https://www.pololu.com/)
 
 ## Summary
